@@ -7,11 +7,11 @@ Matricula: 902466
 
 ## Tela de inspeção com navegador
 
-![Site de Inspeção](Screenshot_2.png)
+![Site de Inspeção](images/Screenshot_2.png)
 
 ## Tela de projeto no Replit
 
-![Tela Replit](image.png)
+![Tela Replit](images/image.png)
 
 
 ## Orientações sobre Linguagem MarkDown
@@ -21,3 +21,4 @@ Acesse e leia o [tutorial do GitHub com a sintaxe básica para escrita de texto 
 Veja aqui o exemplo de como colocar uma imagem nos locais acima. 
 
 ![Brasão PUC Minas](images/brasao_puc.png)
+

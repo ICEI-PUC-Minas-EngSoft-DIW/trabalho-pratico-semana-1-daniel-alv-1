@@ -3,15 +3,15 @@
 ## Informações Gerais
 
 Nome: Daniel Alves Oliveira
-Matricula: 902466
+Matricula: 902466 
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Site de Inspeção](Screenshot_2.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![Tela Replit](image.png)
 
 
 ## Orientações sobre Linguagem MarkDown
